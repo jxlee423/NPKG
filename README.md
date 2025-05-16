@@ -1,4 +1,4 @@
-# NPKG(Network - Phenotype Integrated Key Gene screening)
+# NPKG (Network - Phenotype Integrated Key Gene screening)
 This repository contains R package and example data for **NPKG: A novel approach for screening key genes
 through integrated network and phenotype information.**
 
@@ -58,6 +58,6 @@ The NPKG returns a list with the following components:
 - `modules` : significantly phenotype-related modules.
 - `final_genes` : Key genes in the final screen.
 
-## References
+## Reference
 
 1. Langfelder, P., Horvath, S. WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics 9, 559 (2008). https://doi.org/10.1186/1471-2105-9-559
