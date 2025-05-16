@@ -43,14 +43,14 @@ NPKG(gene_data, pheno_data, pheno, pheno_group_fn)
 ```
 
 ## Optional Parameters of NPKG
-- 'p_threshold': Module-trait correlation p-value threshold (default = 0.05).
-- 'gs_threshold': Gene Significance threshold (default = 0.25).
-- 'mm_threshold': Module Membership threshold (default = 0.75).
-- 'degree_top Hub': genes degree threshold (default = 0.05).
-- 'clust_threshold': Remove outlier samples through clustering (default = 0.95).
-- 'output_dir': Output directory.
-- 'seed': Random Seed.
-- 'verbose': Whether to show progress messages.
+- `p_threshold`: Module-trait correlation p-value threshold (default = 0.05).
+- `gs_threshold`: Gene Significance threshold (default = 0.25).
+- `mm_threshold`: Module Membership threshold (default = 0.75).
+- `degree_top Hub`: genes degree threshold (default = 0.05).
+- `clust_threshold`: Remove outlier samples through clustering (default = 0.95).
+- `output_dir`: Output directory.
+- `seed`: Random Seed.
+- `verbose`: Whether to show progress messages.
 
 ## Output
 The NPKG returns a list with the following components:
