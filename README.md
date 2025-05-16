@@ -1,6 +1,6 @@
 # NPKG
 
-![Overview](./docs/NPKG_model.png)
+![Overview](./docs/NPKGmodel.png)
 
 ## Installation
 
