@@ -16,7 +16,7 @@ efficiency.**
 - stats
 - methods
 
-We recommend using R version $>=$ 4.4.2.
+We recommend using R version ≥ 4.4.2.
 
 ## Package Installation and Loading
 You can install NPKG from GitHub with:
