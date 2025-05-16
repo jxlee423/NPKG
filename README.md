@@ -55,8 +55,8 @@ NPKG(gene_data, pheno_data, pheno, pheno_group_fn)
 ## Output
 The NPKG returns a list with the following components:
 
-- modules: significantly phenotype-related modules.
-- final_genes: Key genes in the final screen.
+- `modules`: significantly phenotype-related modules.
+- `final_genes`: Key genes in the final screen.
 
 ## References
 
