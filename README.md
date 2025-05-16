@@ -1,8 +1,10 @@
 # NPKG(Network - Phenotype Integrated Key Gene screening)
 This repository contains R package and example data for **NPKG: A novel approach for screening key genes
 through integrated network and phenotype information.**
+
 **NPKG is a machine learning approach incorporating gene network topology and phenotype-gene relationships to improve the key gene discovery
 efficiency.**
+
 ![Overview](./docs/NPKGmodel.png)
 
 ## Required Packages
