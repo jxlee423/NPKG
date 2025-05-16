@@ -1,12 +1,6 @@
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 # NPKG
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of NPKG is to …
+![Overview](./docs/NPKG_model.pdf)
 
 ## Installation
 
