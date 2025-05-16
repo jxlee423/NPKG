@@ -1,11 +1,26 @@
 Package: NPKG
-Title: What the Package Does (One Line, Title Case)
+Title: NPKG (Network - Phenotype Integrated Key Gene screening)
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person(given = "Jiaxin",
+           family = "Li",
+           email = "elileejiaxin@gmail.com",
+           role = c("aut", "cre"))
+Description: This is a r package for screening Key Genes.
+License: MIT + file LICENSE
+Imports: 
+    WGCNA,
+    glmnet,
+    randomForest,
+    caret,
+    dplyr,
+    stats,
+    methods
+Suggests: 
+    testthat (>= 3.0.0)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.0.0
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+LazyData: true
